@@ -1,6 +1,6 @@
 # Hi, I'm Manasvi 👋
 
-I’m a **Full-Stack Engineer** focused on building high-performance systems and AI-integrated applications. I enjoy diving into complex architectures, from real-time AI voice agents to high-throughput decentralized exchanges.
+I’m an inquisitive software engineer focused on building scalable, high-performance systems and intelligent applications, with a strong interest in exploring complex, distributed architectures.
 
 > **Reverse engineering, and understanding by building a prototype.**
 
