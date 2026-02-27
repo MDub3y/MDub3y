@@ -40,7 +40,7 @@ I’m an inquisitive software engineer focused on building scalable, high-perfor
 *Advanced AI voice assistant for real-time vocal interaction using LLMs.*
 * **Stack:** LLMs, WebSockets, React, Node.js.
 
-#### [CaseFlow](https://github.com/MDub3y/caseflow) | [Live](https://casexflow.netlify.app/import)
+#### [CaseFlow](https://github.com/MDub3y/caseflow) | [Live](https://casexflow.netlify.app)
 *Full-stack legal management platform for automated documentation and case tracking.*
 * **Stack:** TypeScript, PostgreSQL, React, Tailwind.
 
