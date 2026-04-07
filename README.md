@@ -1,6 +1,6 @@
 # Hi, I'm Manasvi 👋
 
-I’m an inquisitive software engineer focused on building scalable, high-performance systems and intelligent applications, with a strong interest in exploring complex, distributed architectures.
+🦀 Rust | ⚡ Solana | 🏗️ Systems
 
 > **Reverse engineering, and understanding by building a prototype.**
 
