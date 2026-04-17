@@ -1,12 +1,12 @@
 # Hi, I'm Manasvi 👋
 
-🦀 Rust | ⚡ Solana | 🏗️ Systems
+🦀 Rust | Anchor | Solana
 
 > **Reverse engineering, and understanding by building a prototype.**
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **My fav tech stack**
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m_dub0x)
 [![](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasvi-dubey/)
