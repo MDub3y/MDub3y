@@ -4,10 +4,6 @@
 
 > **Reverse engineering, and understanding by building a prototype.**
 
-### Currently prototyping on  
-
-[![Excalidraw](https://img.shields.io/badge/Open%20Architecture%20Diagram-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)](https://excalidraw.com/#json=6kBp-kmWJ7vROg919logU,C7IgbY-MJx9DIG8t8SO6HA)
-
 ---
 
 ### My Tech Stack
