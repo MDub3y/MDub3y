@@ -1,6 +1,6 @@
 # Hi, I'm Manasvi 👋
 
-🦀 Rust | Anchor | Solana
+🦀 Rust | Pinocchio | Anchor | Solana
 
 > **Reverse engineering, and understanding by building a prototype.**
 
